@@ -3,3 +3,4 @@ This project focuses on the development of a real-time sign language recognition
 
 Keywords:
 Deep learning, Gesture detection, Image classification, Computer Vision, Speech Synthesis.
+blob:https://web.whatsapp.com/3fda4d6b-4c19-461b-b022-ebd0d38f4e2e
